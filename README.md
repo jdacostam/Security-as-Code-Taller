@@ -1,5 +1,5 @@
 # Security as Code
-
+### TALLER ELABORADO POR: JUAN DIEGO ACOSTA MOLINA
 > Solución segura del taller de "Security as Code" con remediación de vulnerabilidades SAST.
 
 ## Cómo ejecutar

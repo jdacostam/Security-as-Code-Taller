@@ -1,3 +1,5 @@
+# TALLER ELABORADO POR: JUAN DIEGO ACOSTA MOLINA
+
 import ast
 import base64
 import hashlib
